@@ -1,0 +1,15 @@
+body{background-color:rgb(231, 231, 153);}
+
+
+table, th, td{text-align:center; border: 1px solid brown;
+margin: 0 auto;
+border-collapse: calc(td,th);
+font-family: Arial, sans-serif;
+ font-size: 16px;
+}
+h1{text-align: center; color: maroon;}
+/*tamanho da fonte para das mais destaque*/
+p{font-size: 30px;color:brown ;}
+img{border-radius: 50%; height: 50;width: 50;}
+a{color: rgb(9, 0, 139);text-decoration: none;transition: 0.3s;}
+a:hover{color: chocolate;text-decoration: underline;}
